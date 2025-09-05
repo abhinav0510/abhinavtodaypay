@@ -1,0 +1,50 @@
+[
+  {
+    "id": "5",
+    "category": "Technology",
+    "difficulty": "easy",
+    "question": "What does CSS stand for?",
+    "correctAnswer": "Cascading Style Sheets",
+    "options": ["Computer Styled Sections", "Creative Styling System", "Cascading Style Sheets", "Colorful Style Syntax"]
+  },
+  {
+    "id": "6",
+    "category": "Sports",
+    "difficulty": "hard",
+    "question": "How many players are there in a cricket team on the field?",
+    "correctAnswer": "11",
+    "options": ["9", "10", "11", "12"]
+  },
+  {
+    "id": "7",
+    "category": "Entertainment",
+    "difficulty": "easy",
+    "question": "Which company created the character Mickey Mouse?",
+    "correctAnswer": "Disney",
+    "options": ["Nickelodeon", "DreamWorks", "Disney", "Pixar"]
+  },
+  {
+    "id": "8",
+    "category": "General",
+    "difficulty": "medium",
+    "question": "What is the capital of Japan?",
+    "correctAnswer": "Tokyo",
+    "options": ["Kyoto", "Tokyo", "Osaka", "Sapporo"]
+  },
+  {
+    "id": "9",
+    "category": "Science",
+    "difficulty": "hard",
+    "question": "What gas do plants primarily absorb for photosynthesis?",
+    "correctAnswer": "Carbon Dioxide",
+    "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"]
+  },
+  {
+    "id": "10",
+    "category": "Maths",
+    "difficulty": "easy",
+    "question": "What is the square root of 81?",
+    "correctAnswer": "9",
+    "options": ["7", "8", "9", "10"]
+  }
+]
